@@ -14,11 +14,11 @@ namespace TestClass
     {
         [Test, Category("Gerüsttest")]
 
-        /*public void DateiLesen()
+        public void DateiLesen()
         {
-            var ergebnis = EinUndAusgabe.LeseDatei($"Z:\"Programmierung\"VisualStudio\"Konsolenanwendungen\"Test.txt");
-            Assert.AreEqual("Hallöle Welt", ergebnis);
-        }*/
+            var ergebnis = EinUndAusgabe.LeseDatei(@"Z:\Programmierung\VisualStudio\Konsolenanwendungen\Test.txt");
+            Assert.AreEqual("Hallöle Welt\r\nasdf", ergebnis);
+        }
 
         [Test, Category ("Gerüsttest")]
 
@@ -41,7 +41,7 @@ namespace TestClass
         public void ZeichenVerschlüsseln()
         {
             var ergebnis = Verarbeitung.VerschlüsselZeichen("HALLO WELT", "");
-            Assert.AreEqual("UNYYB JRYG", ergebnis);
+            Assert.AreEqual("UNYY1 9RY6", ergebnis);
         }
     }
 }
