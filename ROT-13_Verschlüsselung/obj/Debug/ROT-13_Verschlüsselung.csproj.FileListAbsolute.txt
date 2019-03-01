@@ -1,0 +1,6 @@
+Z:\Programmierung\VisualStudio\Konsolenanwendungen\ROT-13_Verschlüsselung\ROT-13_Verschlüsselung\bin\Debug\ROT-13_Verschlüsselung.exe.config
+Z:\Programmierung\VisualStudio\Konsolenanwendungen\ROT-13_Verschlüsselung\ROT-13_Verschlüsselung\bin\Debug\ROT-13_Verschlüsselung.exe
+Z:\Programmierung\VisualStudio\Konsolenanwendungen\ROT-13_Verschlüsselung\ROT-13_Verschlüsselung\bin\Debug\ROT-13_Verschlüsselung.pdb
+Z:\Programmierung\VisualStudio\Konsolenanwendungen\ROT-13_Verschlüsselung\ROT-13_Verschlüsselung\obj\Debug\ROT-13_Verschlüsselung.csprojResolveAssemblyReference.cache
+Z:\Programmierung\VisualStudio\Konsolenanwendungen\ROT-13_Verschlüsselung\ROT-13_Verschlüsselung\obj\Debug\ROT-13_Verschlüsselung.exe
+Z:\Programmierung\VisualStudio\Konsolenanwendungen\ROT-13_Verschlüsselung\ROT-13_Verschlüsselung\obj\Debug\ROT-13_Verschlüsselung.pdb
